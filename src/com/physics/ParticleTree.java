@@ -1,5 +1,2 @@
-package com.physics;
-
-public class ParticleTree extends QuadTree {
-
+package com.physics;public class ParticleTree {
 }
